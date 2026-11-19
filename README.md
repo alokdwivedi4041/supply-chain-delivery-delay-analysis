@@ -45,6 +45,14 @@ Python (Pandas, NumPy) · SQL (SQLite, window functions, CTEs) · Matplotlib / S
 
 ## 🖼️ Charts
 <img width="1172" height="567" alt="image" src="https://github.com/user-attachments/assets/f0f267d4-0b0c-4461-be55-fda2961f89d8" />
+<img width="1067" height="567" alt="image" src="https://github.com/user-attachments/assets/3a575934-0261-4058-9a54-01d435359337" />
+<img width="1211" height="567" alt="image" src="https://github.com/user-attachments/assets/821c05b4-b1ef-4622-bc4c-1ae7e863255a" />
+<img width="1172" height="567" alt="image" src="https://github.com/user-attachments/assets/dcaf6775-32c1-4879-b1a2-3f043071a4ab" />
+<img width="1282" height="622" alt="image" src="https://github.com/user-attachments/assets/71964185-d3a7-434d-aadd-6da63eb015c9" />
+<img width="1062" height="567" alt="image" src="https://github.com/user-attachments/assets/a46171ac-fc27-4f42-b30a-b41ac5848cb7" />
+<img width="952" height="512" alt="image" src="https://github.com/user-attachments/assets/d27646e7-dfe3-4747-83c1-82754b3eac1a" />
+<img width="1062" height="732" alt="image" src="https://github.com/user-attachments/assets/1c4f2b4e-5fe5-436f-94ad-b4bd44d125b2" />
+
 
 
 ## 🗂️ Project Structure
