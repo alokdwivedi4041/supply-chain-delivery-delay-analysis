@@ -1,0 +1,44 @@
+{
+  "kpis": {
+    "total_orders": 5992,
+    "delay_rate_pct": 41.1,
+    "avg_delay_days_when_delayed": 2.69,
+    "on_time_rate_pct": 58.9,
+    "revenue_at_risk_inr": 8947541,
+    "revenue_at_risk_pct": 40.9,
+    "avg_rating_on_time": 4.49,
+    "avg_rating_delayed": 3.45
+  },
+  "chi_square_tests": {
+    "carrier": {
+      "chi2": 270.5,
+      "p_value": 2.17e-56,
+      "significant_at_5pct": true
+    },
+    "shipping_mode": {
+      "chi2": 27.0,
+      "p_value": 1.39e-06,
+      "significant_at_5pct": true
+    },
+    "region": {
+      "chi2": 37.2,
+      "p_value": 4.08e-08,
+      "significant_at_5pct": true
+    },
+    "season": {
+      "chi2": 61.9,
+      "p_value": 2.34e-13,
+      "significant_at_5pct": true
+    },
+    "distance_band": {
+      "chi2": 145.1,
+      "p_value": 3.14e-32,
+      "significant_at_5pct": true
+    }
+  },
+  "model": {
+    "roc_auc": 0.686,
+    "delayed_recall": 0.61,
+    "delayed_precision": 0.55
+  }
+}
