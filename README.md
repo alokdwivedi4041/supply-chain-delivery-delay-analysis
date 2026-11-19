@@ -44,11 +44,8 @@ Python (Pandas, NumPy) · SQL (SQLite, window functions, CTEs) · Matplotlib / S
 - Use the delay-risk model to trigger proactive customer messages on high-risk orders.
 
 ## 🖼️ Charts
-| | |
-|---|---|
-| ![](images/01_monthly_delay_trend.png) | ![](images/02_carrier_delay_rate.png) |
-| ![](images/03_region_carrier_heatmap.png) | ![](images/05_delay_reason_pareto.png) |
-| ![](images/06_rating_vs_delay.png) | ![](images/08_delay_drivers.png) |
+<img width="1172" height="567" alt="image" src="https://github.com/user-attachments/assets/f0f267d4-0b0c-4461-be55-fda2961f89d8" />
+
 
 ## 🗂️ Project Structure
 ```
